@@ -26,3 +26,9 @@ Temporary Items
 
 # Compiled files
 *.pyc
+
+# Default
+default.py
+
+# Build directories
+build

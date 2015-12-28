@@ -1,0 +1,6 @@
+[MESSAGES CONTROL]
+# C0103 Invalid module name
+disable=C0103
+
+[TYPECHECK]
+ignored-modules = numpy
